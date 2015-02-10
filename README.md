@@ -16,9 +16,9 @@ To Run:
 
 Object files have form:
 
-  <Number of objects in file>
-  *<Number of vertices of object>
-  (<x coord>, <y coord>)
+  Number of objects in file
+  *Number of vertices of object
+  (x coord, y coord)
   .
   .
   .
